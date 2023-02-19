@@ -8,6 +8,7 @@ namespace Assignment02
 {
     class Program
     {
+<<<<<<< HEAD
         
 
         static void Main(string[] args)
@@ -102,5 +103,10 @@ namespace Assignment02
             }
         }
 
+=======
+        static void Main(string[] args)
+        {
+        }
+>>>>>>> 2fe8aba38de6b6f7635cb05808429bee184f0811
     }
 }
